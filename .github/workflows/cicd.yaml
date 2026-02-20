@@ -34,9 +34,7 @@ jobs:
     needs: ci
     runs-on: self-hosted
     steps:
-
-
-      - uses: EndBug/add-and-commit@v9
+      - uses: actions/checkout@v3
 
       - name: Modify values file
         shell: bash
