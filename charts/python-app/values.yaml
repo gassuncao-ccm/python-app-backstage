@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: gassuncao01/python-app
   pullPolicy: IfNotPresent
-  tag: "625e3b"
+  tag: "69c2a2"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
