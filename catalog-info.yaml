@@ -5,7 +5,7 @@ metadata:
   description: Python app for demonstration purposes.
   annotations:
     github.com/project-slug: gassuncao-ccm/python-app-backstage
-
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: development
